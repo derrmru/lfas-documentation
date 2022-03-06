@@ -34,7 +34,7 @@ const Sidebar = ({ projects }) => {
             {
                 !toggle && <div>
                     <button
-                        className="absolute h-24 top-0 right-6 md:hidden"
+                        className="fixed h-24 top-0 right-6 md:hidden"
                         onClick={() => setToggle(true)}
                     >
                         MENU
