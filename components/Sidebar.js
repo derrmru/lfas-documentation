@@ -5,7 +5,7 @@ const Sidebar = ({ projects }) => {
     const [display, setDisplay] = useState([])
     const [filter, setFilter] = useState('')
     const [filteredProjects, setFilteredProjects] = useState(projects)
-    const [toggle, setToggle] = useState(true)
+    const [toggle, setToggle] = useState(false)
 
     const router = useRouter()
 
@@ -24,6 +24,7 @@ const Sidebar = ({ projects }) => {
             'resize',
             windowSize
         );
+        windowSize()
     }, [])
 
     const handleClick = () => window.innerWidth < 768 && setToggle(false)
