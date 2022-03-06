@@ -24,7 +24,7 @@ const Sidebar = ({ projects }) => {
             'resize',
             windowSize
         );
-    }, [toggle])
+    }, [])
 
     const handleClick = () => window.innerWidth < 768 && setToggle(false)
 
