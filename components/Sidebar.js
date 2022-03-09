@@ -67,7 +67,7 @@ const Sidebar = ({ projects }) => {
                             <div className="mr-4">&#128269;</div>
                             <input
                                 type="text"
-                                className="my-4 border-2 w-100 md:w-88"
+                                className="my-4 border-2 w-100"
                                 value={filter}
                                 onChange={(e) => setFilter(e.target.value)}
                             />
@@ -87,7 +87,7 @@ const Sidebar = ({ projects }) => {
                                     key={category}
                                     className="my-1"
                                 >
-                                    <button
+                                    &gt; <button
                                         onClick={() => {
                                             setDisplay(prev => {
                                                 const idx = prev.indexOf(category)
