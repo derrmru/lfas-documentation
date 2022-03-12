@@ -9,6 +9,8 @@ This is a Google Sheets Addon bound to the clinic list template 'Auto Clinic Lis
 
 The addon takes some input from the clinic list and user, via a sidebar html form, and generates a Surgery Quote as a document.
 
+Execute the add on by going to:
+
 Podogo > Generate Quote
 
 The fees are derived from the [Surgery Quote Web App](/projects/surgery-fees).

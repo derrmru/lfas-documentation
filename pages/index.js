@@ -19,8 +19,8 @@ export default function Home({ projects }) {
         <p>If you need any information, get in touch:</p>
         <ul>
           <li><a href="mailto:bookings@podogo.com">Anjelica: bookings@podogo.com</a> (Dev / Admin)</li>
-          <li><a href="mailto:peter@thepetersweeney.com">Peter: peter@thepetersweeney.com</a> (Dev)</li>
           <li><a href="mailto:admin@podogo.com">Fiona: admin@podogo.com</a> (Admin)</li>
+          <li><a href="mailto:kaser@podogo.com">Kaser: kaser@podogo.com</a> (Owner)</li>
         </ul>
       </Body>
 

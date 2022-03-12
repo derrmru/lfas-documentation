@@ -11,7 +11,7 @@ This is a Progressive Web App that allows the user to select hot spots on a 3D m
 
 The application is boot strapped with Create React App, built locally and served via Godaddy. The corresponding directory is conditions.londonfootandanklesurgery.co.uk.
 
-The application can be saved to a device as a Progress Web App using a service worker.
+The application can be saved to a device as a Progressive Web App using a service worker.
 
 3D rendering provided by Google Model Viewer.
 
