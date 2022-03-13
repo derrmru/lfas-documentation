@@ -2,7 +2,7 @@
 type: "Google Sheets Addons"
 title: "Admin Surgery Quotes"
 framework: "Google Apps Script"
-repository: "https://docs.google.com/spreadsheets/d/1EURhFQ-0HkeSbqDcDIQNNz4ygHNZms7hA6taeNDiDgs/edit?usp=drive_web&ouid=106427715313864590283"
+repository: "https://script.google.com/home/projects/1c3UOd7m21p9PpJPVNVHrcbSYMqiwJBbMFLwXYMnV_t6r4pClB-a2LOFU/edit"
 ---
 
 This is a Google Sheets Addon bound to the clinic list template 'Auto Clinic List'.
